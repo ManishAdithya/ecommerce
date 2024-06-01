@@ -1,4 +1,3 @@
-
 public class User {
     private String name;
     private String email;
@@ -21,4 +20,3 @@ public class User {
         return "User Name: " + name + ", Email: " + email;
     }
 }
-
